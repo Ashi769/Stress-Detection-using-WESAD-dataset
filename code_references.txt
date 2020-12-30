@@ -1,5 +1,0 @@
-References
-
-1. https://github.com/WJMatthew/WESAD
-2. https://github.com/chriotte/Stress_classifier_with_AutoML_and_wearable_devices
-3. https://github.com/lciti/cvxEDA
